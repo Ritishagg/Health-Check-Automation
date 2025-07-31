@@ -16,3 +16,12 @@ This project automates the health check of multiple web applications and service
 
 ## 📁 Folder Structure
 
+Health-Check-Automation/
+├── scripts/
+│ └── app_health_check.py
+├── config/
+│ └── endpoints_list.json
+├── logs/
+│ └── health_check_log.txt
+├── README.md
+└── requirements.txt
